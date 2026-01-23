@@ -1,6 +1,6 @@
 
 
-# Hey there! 👋 I'm Mehdi
+# Hey there! 👋 I'm El Mehdi
 
 ## 🚀 From Customer Service to Code
 
