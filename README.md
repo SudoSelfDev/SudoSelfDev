@@ -1,8 +1,8 @@
 
 
-# Hey there! 👋 I'm El Mehdi - SudoSelfDev
+# Hey there! 👋
 
-I'm a problem-solver by training, a cloud engineer by choice. Years in customer
+I'm El Mehdi, a problem-solver by training, a cloud engineer by choice. Years in customer
 service sharpened something in me: the ability to stay calm under pressure, ask
 the right questions, and find solutions that actually work. That same mindset is
 now what drives my transition into tech. Good engineering, I believe, starts with
