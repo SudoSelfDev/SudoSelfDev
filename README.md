@@ -13,10 +13,10 @@ built by the amazing [madebygps](https://github.com/madebygps), starting from th
 ground up — Linux, Bash, and everything that comes after. The destination is
 clear: a career as a Cloud Engineer.
 
----
+--
 
 ## 🌱 Currently Learning
 - Linux & Bash (Learn to Cloud — Phase 1)
 
 ## 📍 Based in Morocco 🇲🇦
-## 🌐 [sudoself.dev](https://sudoself.dev) · 🐦 [@elazgaou](https://twitter.com/elazgaou)
+## 🌐 [sudoself.dev](https://sudoself.dev) · <i class="bi bi-twitter-x"></i> [@elazgaou](https://twitter.com/elazgaou)
