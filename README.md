@@ -19,4 +19,4 @@ clear: a career as a Cloud Engineer.
 - Linux & Bash (Learn to Cloud — Phase 1)
 
 ## 📍 Based in Morocco 🇲🇦
-## 🌐 [sudoself.dev](https://sudoself.dev) · <i class="bi bi-twitter-x"></i> [@elazgaou](https://twitter.com/elazgaou)
+## 🌐 [sudoself.dev](https://sudoself.dev) · :x: [@elazgaou](https://twitter.com/elazgaou)
